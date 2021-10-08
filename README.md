@@ -15,9 +15,9 @@ To get the newest version of Dr. Ash's repository, execute
 
 ```shell
 git fetch upstream
-git rebase main # If there are no conflicts
+git rebase upstream/main # If there are no conflicts
 # -- OR --
-git merge main # If there are changes in older files
+git merge upstream/main # If there are changes in older files
 ```
 
 To commit some new solutions to your repository, run the following command:
