@@ -1,5 +1,5 @@
 {
-	"python.linting.pylintEnabled": false,
+	"python.linting.pylintEnabled": true,
 	"python.linting.enabled": true,
 	"editor.useTabStops": false,
 	"editor.tabSize": 4,
@@ -7,5 +7,5 @@
 	"editor.insertSpaces": true,
 	"editor.formatOnSave": true,
 	"python.linting.banditEnabled": false,
-	"python.linting.flake8Enabled": true
+	"python.linting.flake8Enabled": false
 }
